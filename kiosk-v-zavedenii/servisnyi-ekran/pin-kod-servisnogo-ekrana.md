@@ -9,3 +9,5 @@ _Пинкод сервисного экрана необходим для защ
 Настройки -> Основные настройки -> Терминал
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe88fQi22cmej6ZK7eTycpsl7iSwusa5v7k4fKgO_70h9LWlQz63Ukt_TtdncHnD1GUMysFkBpT2fHwVNZ3aFURtHWNzztF_VydCxdwTgmcItNdrwUDwLLScCj0fvOxJeycOgOt3A?key=jV92gj3y8b99I5nDo8mL07EO" alt=""><figcaption></figcaption></figure>
+
+Пинкод на киоске обновляется моментально в автономном режиме и не требует перезагрузки устройства
