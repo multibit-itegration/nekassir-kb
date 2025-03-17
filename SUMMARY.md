@@ -1,8 +1,11 @@
 # Table of contents
 
+* [О nekassir](README.md)
+* [Как настроить](kak-nastroit.md)
+
 ## Киоск в заведении
 
-* [Сервисный экран](README.md)
+* [Сервисный экран](<README (1).md>)
   * [Использование сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
 
