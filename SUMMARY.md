@@ -19,3 +19,7 @@
     * [Телеграмм бот](admin-panel/terminaly/nastroiki-terminala/telegramm-bot.md)
   * [Заказы](admin-panel/terminaly/zakazy.md)
   * [Лицензирование](admin-panel/terminaly/licenzirovanie.md)
+
+## Распространенные проблемы
+
+* [Номер заказа 9999](rasprostranennye-problemy/nomer-zakaza-9999.md)
