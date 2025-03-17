@@ -16,5 +16,6 @@
     * [Типы оплат](admin-panel/terminaly/nastroiki-terminala/tipy-oplat.md)
     * [iikoCard](admin-panel/terminaly/nastroiki-terminala/iikocard.md)
     * [Стили](admin-panel/terminaly/nastroiki-terminala/stili.md)
+    * [Телеграмм бот](admin-panel/terminaly/nastroiki-terminala/telegramm-bot.md)
   * [Заказы](admin-panel/terminaly/zakazy.md)
   * [Лицензирование](admin-panel/terminaly/licenzirovanie.md)
