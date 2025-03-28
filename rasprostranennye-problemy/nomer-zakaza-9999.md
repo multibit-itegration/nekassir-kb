@@ -8,7 +8,7 @@
 
 
 
-Отследить данные заказы можно через телеграмм бот ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/nastroiki-terminala/telegramm-bot](../admin-panel/terminaly/nastroiki-terminala/telegramm-bot.md)) или в списке заказов ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy](https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy)) в статусе Ошибка создания&#x20;
+Отследить данные заказы можно через телеграмм-бот ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/nastroiki-terminala/telegramm-bot](../admin-panel/terminaly/nastroiki-terminala/telegramm-bot.md)) или в списке заказов ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy](https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy)) в статусе Ошибка создания&#x20;
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2025-03-17 в 10.44.02.png" alt=""><figcaption></figcaption></figure>
 
