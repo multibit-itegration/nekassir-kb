@@ -8,6 +8,7 @@
 * [Сервисный экран](<README (1).md>)
   * [Использование сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
+  * [ККТ АТОЛ](kiosk-v-zavedenii/readme/kkt-atol.md)
 
 ## Админ панель
 
