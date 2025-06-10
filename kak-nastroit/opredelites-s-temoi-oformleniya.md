@@ -22,7 +22,9 @@
 Для редактирования доступен цвет элементов.\
 На макете Цвет элементов - #e89485\
 \
-[ВИДЕОПРЕЗЕНТАЦИЯ](https://nekassir.tech/how-to#popup:japan)
+[ВИДЕОПРЕЗЕНТАЦИЯ](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSzAdygDFG92qN4cRtvV5%2Fuploads%2FCSk1OwUOslRBRTtyGSXJ%2Fnkjp.mp4?alt=media\&token=6d7f298a-0793-4baf-9790-11aab20e2852)
+
+
 
 **Италия**
 
