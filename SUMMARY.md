@@ -49,3 +49,5 @@
 
 * [Номер заказа 9999](rasprostranennye-problemy/nomer-zakaza-9999.md)
 * [Заказ не пришел на фронт, но его нет в списке заказов](rasprostranennye-problemy/zakaz-ne-prishel-na-front-no-ego-net-v-spiske-zakazov.md)
+* [Белый экран/Ошибка HTTP запроса/Не найден код сборки](rasprostranennye-problemy/belyi-ekran-oshibka-http-zaprosa-ne-naiden-kod-sborki.md)
+* [Пропало меню/Изображения блюд](rasprostranennye-problemy/propalo-menyu-izobrazheniya-blyud.md)
