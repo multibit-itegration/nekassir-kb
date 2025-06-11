@@ -48,4 +48,4 @@
 ## Распространенные проблемы
 
 * [Номер заказа 9999](rasprostranennye-problemy/nomer-zakaza-9999.md)
-* [Заказа нет в списке](rasprostranennye-problemy/zakaza-net-v-spiske.md)
+* [Заказ не пришел на фронт, но его нет в списке заказов](rasprostranennye-problemy/zakaz-ne-prishel-na-front-no-ego-net-v-spiske-zakazov.md)
