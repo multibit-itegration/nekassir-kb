@@ -48,3 +48,11 @@ Program Files(x86) -> ATOL -> Drivers10 -> KKT -> web
 В открывшемся окне введите идентификатор ККТ и название, могут быть любыми
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+После ввода информации нажмите “Добавить”. Страница обновится и на ней будет отображаться только что добавленная ККМ.
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+В списке устройств включите необходимую ККМ
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
