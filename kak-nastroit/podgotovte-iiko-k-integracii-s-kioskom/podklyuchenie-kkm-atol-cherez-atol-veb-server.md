@@ -39,7 +39,7 @@ Program Files(x86) -> ATOL -> Drivers10 -> KKT -> web
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-#### Добавление ККМ <a href="#dobavlenie-kkm" id="dobavlenie-kkm"></a>
+### Добавление ККМ <a href="#nastroika-veb-servera" id="nastroika-veb-servera"></a>
 
 Для добавления вашей ККМ нажмите кнопку “Добавить” на вкладке “Устройства”
 
