@@ -16,7 +16,7 @@
 
 Уведомление появится в верхнем правом углу, наименование группы модификаторов, будет подсвечено красным
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSzAdygDFG92qN4cRtvV5%2Fuploads%2FpUrWVDMaTdle7ilmOOEF%2F%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-11%20%D0%B2%2011%20(online-video-cutter.com).mp4?alt=media&token=e1dff1dc-4bcb-4332-bbcf-497e5fe84340" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSzAdygDFG92qN4cRtvV5%2Fuploads%2FeHwhH3U9aq5JJXJVvd3b%2F%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-11%20%D0%B2%2012.55.06%20(online-video-cutter.com).mp4?alt=media&token=67e54bb0-bce3-4015-87a3-d9a531c452aa" %}
 
 Выбрав блюда, гость переходит в корзину, выбирает тип заказа(С собой, В зале, Локатор), при выборе типа заказа "Локатор" киоск предложит ввести номер локатора
 
