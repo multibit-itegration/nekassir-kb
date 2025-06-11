@@ -48,3 +48,4 @@
 ## Распространенные проблемы
 
 * [Номер заказа 9999](rasprostranennye-problemy/nomer-zakaza-9999.md)
+* [Заказа нет в списке](rasprostranennye-problemy/zakaza-net-v-spiske.md)
