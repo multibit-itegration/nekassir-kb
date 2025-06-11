@@ -20,10 +20,12 @@
       * [Настройки модификаторов](kak-nastroit/podgotovte-iiko-k-integracii-s-kioskom/vygruzka-vneshnego-menyu/nastroiki-modifikatorov.md)
     * [Выпуск ключа API iikoCloud](kak-nastroit/podgotovte-iiko-k-integracii-s-kioskom/vypusk-klyucha-api-iikocloud.md)
     * [Фискализация на киоске](kak-nastroit/podgotovte-iiko-k-integracii-s-kioskom/fiskalizaciya-na-kioske.md)
+    * [Подключение ККМ АТОЛ через АТОЛ веб-сервер](kak-nastroit/podgotovte-iiko-k-integracii-s-kioskom/podklyuchenie-kkm-atol-cherez-atol-veb-server.md)
 * [Закажите лицензию и заполните бриф на настройку](zakazhite-licenziyu-i-zapolnite-brif-na-nastroiku.md)
 
 ## Киоск в заведении
 
+* [Взаимодействие гостя с киоском](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom.md)
 * [Сервисный экран](<README (1).md>)
   * [Использование сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
