@@ -25,7 +25,11 @@
 
 ## Киоск в заведении
 
-* [Взаимодействие гостя с киоском](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom.md)
+* [Взаимодействие гостя с киоском](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom/README.md)
+  * [Взаимодействие с меню, блюдами, модификаторами](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom/vzaimodeistvie-s-menyu-blyudami-modifikatorami.md)
+  * [Выбор типа заказа](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom/vybor-tipa-zakaza.md)
+  * [Бонусная карта](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom/bonusnaya-karta.md)
+  * [Выбор типа оплаты. Оплата заказа](kiosk-v-zavedenii/vzaimodeistvie-gostya-s-kioskom/vybor-tipa-oplaty.-oplata-zakaza.md)
 * [Сервисный экран](<README (1).md>)
   * [Как перейти в сервисный экран](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
