@@ -1,4 +1,4 @@
-# Выгрузка внешнего меню
+# 4.7. Выгрузка внешнего меню
 
 Как работать с внешним меню описано в [мануале iiko](https://ru.iiko.help/articles/?roistat_visit=5850322#!iikoweb/external-menu)\
 \
@@ -18,7 +18,7 @@
 На киоске поддерживаются модификаторы по следующему принципу:\
 
 
-1. У группового модификатора [настройки зависят от настроек блюда](https://app.gitbook.com/o/eIw02JG0OGto3PW12dVB/s/SzAdygDFG92qN4cRtvV5/~/changes/19/kak-nastroit/podgotovte-iiko-k-integracii-s-kioskom/vygruzka-vneshnego-menyu/nastroiki-modifikatorov)
+1. У группового модификатора [настройки зависят от настроек блюда](https://nekassir.gitbook.io/nekassir/kak-nastroit/4.-podgotovte-iiko-k-integracii-s-kioskom/4.7.-vygruzka-vneshnego-menyu/4.7.1.-nastroiki-modifikatorov)
 2. Негрупповые модификаторы можно выбирать в любом количестве, и важно не устанавливать ограничения на их добавление.
 
 \
