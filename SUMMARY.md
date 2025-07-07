@@ -64,8 +64,5 @@
 * [2. Заказ не пришел на фронт, но его нет в списке заказов](rasprostranennye-problemy/2.-zakaz-ne-prishel-na-front-no-ego-net-v-spiske-zakazov.md)
 * [3. Белый экран/Ошибка HTTP запроса/Не найден код сборки](rasprostranennye-problemy/3.-belyi-ekran-oshibka-http-zaprosa-ne-naiden-kod-sborki.md)
 * [4. Пропало меню/Изображения блюд](rasprostranennye-problemy/4.-propalo-menyu-izobrazheniya-blyud.md)
-* [5. В меню на киоске цена больше чем в iiko/внутри карточки блюда](rasprostranennye-problemy/5.-v-menyu-na-kioske-cena-bolshe-chem-v-iiko-vnutri-kartochki-blyuda.md)
-
-***
-
-* [6. Пропали изображения блюд на киоске](6.-propali-izobrazheniya-blyud-na-kioske.md)
+* [5. Пропают изображения блюд во внешнем меню](rasprostranennye-problemy/5.-propayut-izobrazheniya-blyud-vo-vneshnem-menyu.md)
+* [6. В меню на киоске цена больше чем в iiko/внутри карточки блюда](rasprostranennye-problemy/6.-v-menyu-na-kioske-cena-bolshe-chem-v-iiko-vnutri-kartochki-blyuda.md)
