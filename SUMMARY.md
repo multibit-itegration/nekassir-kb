@@ -33,6 +33,7 @@
   * [1.2. Выбор типа заказа](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.2.-vybor-tipa-zakaza.md)
   * [1.3. Бонусная карта](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.3.-bonusnaya-karta.md)
   * [1.4. Выбор типа оплаты. Оплата заказа](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.4.-vybor-tipa-oplaty.-oplata-zakaza.md)
+  * [1.5 Поиск блюда по штрих коду](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.5-poisk-blyuda-po-shtrikh-kodu.md)
 * [2. Сервисный экран](<README (1).md>)
   * [2.1. Как перейти в сервисный экран](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [2.2. Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
