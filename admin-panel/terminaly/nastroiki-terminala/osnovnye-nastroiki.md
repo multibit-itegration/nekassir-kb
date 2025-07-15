@@ -8,7 +8,7 @@
 
 Обратите внимание, что данные поля обязательны и без их заполения работать корректно киоск не сможет.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Типы заказов
 
