@@ -62,7 +62,7 @@
 ## Распространенные проблемы
 
 * [1. Номер заказа 9999](rasprostranennye-problemy/1.-nomer-zakaza-9999/README.md)
-  * [1.1. Ошибка модификатора](rasprostranennye-problemy/1.-nomer-zakaza-9999/1.1.-oshibka-modifikatora.md)
+  * [1.1. Ошибка модификатора/блюда](rasprostranennye-problemy/1.-nomer-zakaza-9999/1.1.-oshibka-modifikatora-blyuda.md)
   * [1.2. Creation timeout](rasprostranennye-problemy/1.-nomer-zakaza-9999/1.2.-creation-timeout.md)
 * [2. Заказ не пришел на фронт, но его нет в списке заказов](rasprostranennye-problemy/2.-zakaz-ne-prishel-na-front-no-ego-net-v-spiske-zakazov.md)
 * [3. Белый экран/Ошибка HTTP запроса/Не найден код сборки](rasprostranennye-problemy/3.-belyi-ekran-oshibka-http-zaprosa-ne-naiden-kod-sborki.md)
