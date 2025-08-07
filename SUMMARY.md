@@ -61,11 +61,11 @@
 
 ## Распространенные проблемы
 
-* [1. Номер заказа 9999](rasprostranennye-problemy/1.-nomer-zakaza-9999/README.md)
-  * [1.1. Ошибка модификатора/блюда](rasprostranennye-problemy/1.-nomer-zakaza-9999/1.1.-oshibka-modifikatora-blyuda.md)
-  * [1.2. Creation timeout](rasprostranennye-problemy/1.-nomer-zakaza-9999/1.2.-creation-timeout.md)
-* [2. Заказ не пришел на фронт, но его нет в списке заказов](rasprostranennye-problemy/2.-zakaz-ne-prishel-na-front-no-ego-net-v-spiske-zakazov.md)
+* [1. Номер заказа 9999(Подробнее о причинах в подпунктах)](rasprostranennye-problemy/1.-nomer-zakaza-9999-podrobnee-o-prichinakh-v-podpunktakh/README.md)
+  * [1.1. Ошибка модификатора/блюда](rasprostranennye-problemy/1.-nomer-zakaza-9999-podrobnee-o-prichinakh-v-podpunktakh/1.1.-oshibka-modifikatora-blyuda.md)
+  * [1.2. Creation timeout](rasprostranennye-problemy/1.-nomer-zakaza-9999-podrobnee-o-prichinakh-v-podpunktakh/1.2.-creation-timeout.md)
+* [2. Заказ не пришел на фронт, но его нет в списке заказов в ошибке](rasprostranennye-problemy/2.-zakaz-ne-prishel-na-front-no-ego-net-v-spiske-zakazov-v-oshibke.md)
 * [3. Белый экран/Ошибка HTTP запроса/Не найден код сборки](rasprostranennye-problemy/3.-belyi-ekran-oshibka-http-zaprosa-ne-naiden-kod-sborki.md)
 * [4. Пропало меню/Изображения блюд](rasprostranennye-problemy/4.-propalo-menyu-izobrazheniya-blyud.md)
-* [5. Пропают изображения блюд во внешнем меню](rasprostranennye-problemy/5.-propayut-izobrazheniya-blyud-vo-vneshnem-menyu.md)
+* [5. Пропают изображения блюд во внешнем меню(+Рекомендации)](rasprostranennye-problemy/5.-propayut-izobrazheniya-blyud-vo-vneshnem-menyu-+rekomendacii.md)
 * [6. В меню на киоске цена больше чем в iiko/внутри карточки блюда](rasprostranennye-problemy/6.-v-menyu-na-kioske-cena-bolshe-chem-v-iiko-vnutri-kartochki-blyuda.md)
