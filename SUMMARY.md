@@ -39,6 +39,7 @@
   * [2.2. Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
   * [2.3. Как выйти на рабочий стол](kiosk-v-zavedenii/readme/2.3.-kak-vyiti-na-rabochii-stol.md)
   * [2.3. ККТ АТОЛ](kiosk-v-zavedenii/readme/2.3.-kkt-atol.md)
+  * [2.4 Возврат](kiosk-v-zavedenii/readme/2.4-vozvrat.md)
   * [2.4. Эквайринг](kiosk-v-zavedenii/readme/2.4.-ekvairing.md)
 
 ## Админ панель

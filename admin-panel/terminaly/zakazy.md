@@ -7,13 +7,13 @@
 1. Через раздел “Терминалы”, нажав на “Заказы” у определенного терминала, откроется список заказов конкретного киоска.
 2. Перейти в заказы, нажав “Заказы” в верхней панели
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Список заказов
 
 Перейдя в заказы любым из способов, можно выбрать один или несколько киосков, задав фильтр по киоскам, а также выбрать дату
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Детали заказа
 
@@ -45,7 +45,7 @@
 
 Также поле содержит копию чека об оплате эквайринга
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
