@@ -57,6 +57,7 @@
 
 ***
 
+* [3. Заказы](3.-zakazy.md)
 * [3. Лицензирование](licenzirovanie.md)
 * [ИНТЕГРАЦИЯ С IIKO](integraciya-s-iiko.md)
 
