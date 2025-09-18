@@ -10,6 +10,21 @@
 
 Отследить данные заказы можно через телеграмм-бот ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/nastroiki-terminala/telegramm-bot](../../admin-panel/terminaly/nastroiki-terminala/2.2.5.-telegramm-bot.md)) или в списке заказов ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy](https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy)) в статусе Ошибка создания&#x20;
 
+**Таблица с кратким описанием частых проблем**
+
+В данной таблице описаны несколько проблем, связанных с модификаторами, блюдами, более подробно описали данные проблемы и решение в отдельной статье\
+[https://nekassir.gitbook.io/nekassir/rasprostranennye-problemy/1.-nomer-zakaza-9999-podrobnee-o-prichinakh-v-podpunktakh/1.1.-oshibka-modifikatora-blyuda](https://nekassir.gitbook.io/nekassir/rasprostranennye-problemy/1.-nomer-zakaza-9999-podrobnee-o-prichinakh-v-podpunktakh/1.1.-oshibka-modifikatora-blyuda)
+
+| Ошибка                                                | Сообщение                                                                                        | Описание                                                                                                                                              |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Тайм-аут при создании заказа                          | Creation timeout expired, order automatically transited to error creation status                 | Время ожидания создания заказа истекло, заказ автоматически перешел в статус ошибки создания                                                          |
+| Неактивный тип заказа                                 | Order type ... is inactive                                                                       | Тип заказа неактивен или удален                                                                                                                       |
+| Блюдо исключено из меню                               | Product ... is excluded from menu for order's table 1 ...                                        | Блюдо не находится на продаже или удалено                                                                                                             |
+| Блюдо находится не на продаже                         | Product ... is inactive. Only active products can be added to order                              | Блюдо не находится на продаже или удалено, проблема аналогична проблеме выше                                                                          |
+| Схема модификатора                                    | Product ... is bound to the template ... so it should be added using AddOrderCompoundItem method | Блюдо содержит схему модификаторов                                                                                                                    |
+| Некорректное значение модификатора                    | Order item modifier ... has invalid amount: min = 0, max = 1, actual = 2                         | Модификатор содержит некорректное значение: мин = 0, макс = 1, актуальное = 2, на фронте и во внешнем меню разные значения модификаторов              |
+| Не удалось найти фиксированные групповые модификаторы | Cannot find fixed group modifiers                                                                | Не удалось найти привязанную группу модификаторов, вероятно модификатор были изменения меню, повлекшие не соответствие внешнего меню и меню на фронте |
+
 **Ошибка создания** - заказ не отправился в iiko, связи с ошибкой, ошибки могут быть разными, внутри заказа
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2025-03-17 в 10.44.02.png" alt=""><figcaption></figcaption></figure>
