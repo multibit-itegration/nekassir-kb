@@ -11,7 +11,7 @@ hidden: true
 1. Через раздел “Терминалы”, нажав на “Заказы” у определенного терминала, откроется список заказов конкретного киоска.
 2. Перейти в заказы, нажав “Заказы” в верхней панели
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Список заказов
 
