@@ -8,7 +8,7 @@
 
 
 
-Отследить данные заказы можно через телеграмм-бот ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/nastroiki-terminala/telegramm-bot](../../admin-panel/terminaly/nastroiki-terminala/2.2.5.-telegramm-bot.md)) или в списке заказов ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy](https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy)) в статусе Ошибка создания&#x20;
+Отследить данные заказы можно через телеграмм-бот ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/nastroiki-terminala/telegramm-bot](../../panel-administratora/terminaly/nastroiki-terminala/2.2.5.-telegramm-bot.md)) или в списке заказов ([https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy](https://nekassir.gitbook.io/nekassir/admin-panel/terminaly/zakazy)) в статусе Ошибка создания&#x20;
 
 **Таблица с кратким описанием частых проблем**
 

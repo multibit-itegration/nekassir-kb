@@ -34,7 +34,7 @@
   * [1.3. Выбор типа заказа](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.3.-vybor-tipa-zakaza.md)
   * [1.4. Бонусная карта](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.4.-bonusnaya-karta.md)
   * [1.5. Выбор типа оплаты. Оплата заказа](kiosk-v-zavedenii/1.-vzaimodeistvie-gostya-s-kioskom/1.5.-vybor-tipa-oplaty.-oplata-zakaza.md)
-* [2. Сервисный экран](<README (1).md>)
+* [2. Сервисный экран для сотрудников](<README (1).md>)
   * [2.1. Как перейти в сервисный экран](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [2.2. Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
   * [2.3. Как выйти на рабочий стол](kiosk-v-zavedenii/readme/2.3.-kak-vyiti-na-rabochii-stol.md)
@@ -42,18 +42,18 @@
   * [2.4 Возврат оплаты](kiosk-v-zavedenii/readme/2.4-vozvrat-oplaty.md)
   * [2.4. Эквайринг](kiosk-v-zavedenii/readme/2.4.-ekvairing.md)
 
-## Админ панель
+## Панель администратора&#x20;
 
-* [1. Доступ в панель](admin-panel/dostup-v-panel.md)
-* [2. Терминалы](admin-panel/terminaly/README.md)
-  * [2.1. Список терминалов](admin-panel/terminaly/spisok-terminalov.md)
-  * [2.2. Настройки терминала](admin-panel/terminaly/nastroiki-terminala/README.md)
-    * [2.2.1. Основные настройки](admin-panel/terminaly/nastroiki-terminala/osnovnye-nastroiki.md)
-    * [2.2.2. Типы оплат](admin-panel/terminaly/nastroiki-terminala/tipy-oplat.md)
-    * [2.2.3. iikoCard](admin-panel/terminaly/nastroiki-terminala/iikocard.md)
-    * [2.2.4. Стили](admin-panel/terminaly/nastroiki-terminala/stili.md)
-    * [2.2.5. Телеграмм бот](admin-panel/terminaly/nastroiki-terminala/2.2.5.-telegramm-bot.md)
-  * [2.3. Заказы](admin-panel/terminaly/zakazy.md)
+* [1. Доступ в панель](panel-administratora/dostup-v-panel.md)
+* [2. Терминалы](panel-administratora/terminaly/README.md)
+  * [2.1. Список терминалов](panel-administratora/terminaly/spisok-terminalov.md)
+  * [2.2. Настройки терминала](panel-administratora/terminaly/nastroiki-terminala/README.md)
+    * [2.2.1. Основные настройки](panel-administratora/terminaly/nastroiki-terminala/osnovnye-nastroiki.md)
+    * [2.2.2. Типы оплат](panel-administratora/terminaly/nastroiki-terminala/tipy-oplat.md)
+    * [2.2.3. iikoCard](panel-administratora/terminaly/nastroiki-terminala/iikocard.md)
+    * [2.2.4. Стили](panel-administratora/terminaly/nastroiki-terminala/stili.md)
+    * [2.2.5. Телеграмм бот](panel-administratora/terminaly/nastroiki-terminala/2.2.5.-telegramm-bot.md)
+  * [2.3. Заказы](panel-administratora/terminaly/zakazy.md)
 
 ***
 
