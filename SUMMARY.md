@@ -37,7 +37,7 @@
 * [2. Сервисный экран для сотрудников](<README (1).md>)
   * [2.1. Как перейти в сервисный экран](kiosk-v-zavedenii/servisnyi-ekran/ispolzovanie-servisnogo-ekrana.md)
   * [2.2. Пин код сервисного экрана](kiosk-v-zavedenii/servisnyi-ekran/pin-kod-servisnogo-ekrana.md)
-  * [2.3. Как обновить настройки](kiosk-v-zavedenii/readme/2.3.-kak-obnovit-nastroiki.md)
+  * [2.3. Как обновить данные](kiosk-v-zavedenii/readme/2.3.-kak-obnovit-dannye.md)
   * [2.4. Как выйти на рабочий стол](kiosk-v-zavedenii/readme/2.4.-kak-vyiti-na-rabochii-stol.md)
   * [2.5. ККТ АТОЛ](kiosk-v-zavedenii/readme/2.5.-kkt-atol.md)
   * [2.6 Возврат оплаты](kiosk-v-zavedenii/readme/2.6-vozvrat-oplaty.md)
