@@ -58,6 +58,12 @@ _К примеру, если на точке 2 киоска мы можем им
 
 
 
-На сервисном чеке
+На сервисном чеке:
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2025-11-11 в 11.06.13.png" alt=""><figcaption></figcaption></figure>
+
+
+
+В админ-панели nekassir:&#x20;
+
+<figure><img src="../.gitbook/assets/Снимок экрана 2025-11-11 в 11.16.52.png" alt=""><figcaption></figcaption></figure>
