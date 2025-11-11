@@ -55,3 +55,9 @@ _К примеру, если на точке 2 киоска мы можем им
 На кухонном экране внешний номер отображается тут:&#x20;
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2025-11-11 в 10.56.48.png" alt=""><figcaption></figcaption></figure>
+
+
+
+На сервисном чеке
+
+<figure><img src="../.gitbook/assets/Снимок экрана 2025-11-11 в 11.06.13.png" alt=""><figcaption></figcaption></figure>
