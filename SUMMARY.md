@@ -24,7 +24,7 @@
   * [5. KKM server](kak-nastroit/5.-kkm-server/README.md)
     * [5.1. Настройка СБРФ](kak-nastroit/5.-kkm-server/5.1.-nastroika-sbrf.md)
     * [5.2. Настройка INPAS](kak-nastroit/5.-kkm-server/5.2.-nastroika-inpas.md)
-  * [5. Настройка электронной очереди под нумерацию через nekassir](kak-nastroit/5.-nastroika-elektronnoi-ocheredi-pod-numeraciyu-cherez-nekassir.md)
+  * [6. Настройка электронной очереди под нумерацию через nekassir](kak-nastroit/6.-nastroika-elektronnoi-ocheredi-pod-numeraciyu-cherez-nekassir.md)
 * [Закажите лицензию и заполните бриф на настройку](zakazhite-licenziyu-i-zapolnite-brif-na-nastroiku.md)
 
 ## Киоск в заведении

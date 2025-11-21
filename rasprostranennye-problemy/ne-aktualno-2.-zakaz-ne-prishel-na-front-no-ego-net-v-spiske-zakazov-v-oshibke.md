@@ -16,4 +16,4 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2025-06-11 в 13.20.29.png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>
