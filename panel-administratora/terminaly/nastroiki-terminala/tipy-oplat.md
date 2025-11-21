@@ -1,4 +1,4 @@
-# Типы оплат
+# 2.2.2. Типы оплат
 
 Nekassir поддерживает различные виды типов оплат, а именно:&#x20;
 
@@ -21,4 +21,11 @@ _Данный тип оплат подразумевает, что гость п
 ## Интегрированный банковский эквайринг
 
 Nekassir поддерживает работу с банковскими эквайрингами на базе коннекторов Сбер и DualConnector, подключение к ПК может быть по любому виду соединения.&#x20;
+
+## Интегрированный банковский эквайринг с ККТ Атол
+
+Nekassir поддерживает работу ККТ Атол
+
+Подробнее о настройке в статье - [https://nekassir.gitbook.io/nekassir/kak-nastroit/4.-podgotovte-iiko-k-integracii-s-kioskom/4.10.-podklyuchenie-kkm-atol-cherez-atol-veb-server](https://nekassir.gitbook.io/nekassir/kak-nastroit/4.-podgotovte-iiko-k-integracii-s-kioskom/4.10.-podklyuchenie-kkm-atol-cherez-atol-veb-server)\
+Подробнее о требованиях к ККТ - [https://nekassir.gitbook.io/nekassir/kak-nastroit/4.-podgotovte-iiko-k-integracii-s-kioskom/4.9.-fiskalizaciya-na-kioske](https://nekassir.gitbook.io/nekassir/kak-nastroit/4.-podgotovte-iiko-k-integracii-s-kioskom/4.9.-fiskalizaciya-na-kioske)
 
