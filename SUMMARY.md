@@ -41,7 +41,8 @@
   * [2.3. Как обновить данные](kiosk-v-zavedenii/readme/2.3.-kak-obnovit-dannye.md)
   * [2.4. Как выйти на рабочий стол](kiosk-v-zavedenii/readme/2.4.-kak-vyiti-na-rabochii-stol.md)
   * [2.5. ККТ АТОЛ](kiosk-v-zavedenii/readme/2.5.-kkt-atol.md)
-  * [2.6 Возврат оплаты](kiosk-v-zavedenii/readme/2.6-vozvrat-oplaty.md)
+  * [2.6. Закрытие кассовой смены](kiosk-v-zavedenii/readme/2.6.-zakrytie-kassovoi-smeny.md)
+  * [2.7. Возврат оплаты](kiosk-v-zavedenii/readme/2.7.-vozvrat-oplaty.md)
   * [2.4. Эквайринг](kiosk-v-zavedenii/readme/2.4.-ekvairing.md)
 * [Нумерация заказов киоском](kiosk-v-zavedenii/numeraciya-zakazov-kioskom.md)
 
