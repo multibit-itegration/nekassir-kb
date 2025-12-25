@@ -54,9 +54,10 @@
   * [2.2. Настройки терминала](panel-administratora/terminaly/nastroiki-terminala/README.md)
     * [2.2.1. Основные настройки](panel-administratora/terminaly/nastroiki-terminala/osnovnye-nastroiki.md)
     * [2.2.2. Типы оплат](panel-administratora/terminaly/nastroiki-terminala/tipy-oplat.md)
-    * [2.2.3. iikoCard](panel-administratora/terminaly/nastroiki-terminala/iikocard.md)
-    * [2.2.4. Стили](panel-administratora/terminaly/nastroiki-terminala/stili.md)
-    * [2.2.5. Телеграмм бот](panel-administratora/terminaly/nastroiki-terminala/2.2.5.-telegramm-bot.md)
+    * [2.2.3. Настройки НДС](panel-administratora/terminaly/nastroiki-terminala/2.2.3.-nastroiki-nds.md)
+    * [2.2.4. iikoCard](panel-administratora/terminaly/nastroiki-terminala/iikocard.md)
+    * [2.2.5. Стили](panel-administratora/terminaly/nastroiki-terminala/stili.md)
+    * [2.2.6. Телеграмм бот](panel-administratora/terminaly/nastroiki-terminala/2.2.6.-telegramm-bot.md)
   * [2.3. Заказы](panel-administratora/terminaly/zakazy.md)
 
 ***
