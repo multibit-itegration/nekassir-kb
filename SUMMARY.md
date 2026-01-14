@@ -44,6 +44,7 @@
   * [2.6. Возврат оплаты](kiosk-v-zavedenii/readme/2.6.-vozvrat-oplaty.md)
   * [2.7. Закрытие кассовой смены](kiosk-v-zavedenii/readme/2.7.-zakrytie-kassovoi-smeny.md)
   * [2.4. Эквайринг](kiosk-v-zavedenii/readme/2.4.-ekvairing.md)
+  * [Заказы](kiosk-v-zavedenii/readme/zakazy.md)
 * [Нумерация заказов киоском](kiosk-v-zavedenii/numeraciya-zakazov-kioskom.md)
 
 ## Панель администратора&#x20;
