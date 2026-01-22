@@ -42,9 +42,9 @@
   * [2.4. Как выйти на рабочий стол](kiosk-v-zavedenii/readme/2.4.-kak-vyiti-na-rabochii-stol.md)
   * [2.5. ККТ АТОЛ](kiosk-v-zavedenii/readme/2.5.-kkt-atol.md)
   * [2.6. Возврат оплаты](kiosk-v-zavedenii/readme/2.6.-vozvrat-oplaty.md)
+  * [2.6 Заказы. Возврат оплаты](kiosk-v-zavedenii/readme/2.6-zakazy.-vozvrat-oplaty.md)
   * [2.7. Закрытие кассовой смены](kiosk-v-zavedenii/readme/2.7.-zakrytie-kassovoi-smeny.md)
   * [2.4. Эквайринг](kiosk-v-zavedenii/readme/2.4.-ekvairing.md)
-  * [Заказы](kiosk-v-zavedenii/readme/zakazy.md)
 * [Нумерация заказов киоском](kiosk-v-zavedenii/numeraciya-zakazov-kioskom.md)
 
 ## Панель администратора&#x20;
