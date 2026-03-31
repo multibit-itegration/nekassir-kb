@@ -8,7 +8,7 @@
 
 
 
-**Проверить заказы** можно **в сервисном экране** киоска, [тут инструкция о том как перейти в сервисный экран](https://nekassir.gitbook.io/nekassir/kiosk-v-zavedenii/readme/ispolzovanie-servisnogo-ekrana)\
+**Проверить заказы** можно **в сервисном экране** киоска, [тут инструкция по взаимодействию с разделом "Заказы"](https://nekassir.gitbook.io/nekassir/kiosk-v-zavedenii/readme/2.7.-zakazy.-oshibki-sozdaniya-i-oplaty)\
 Либо в **панели администратора**, в браузере, [тут инструкция как попасть в панель](https://nekassir.gitbook.io/nekassir/panel-administratora/dostup-v-panel), в панели администратора проблемные заказы можно увидеть в разделе "Заказы", [тут инструкция по взаимодействию с разделом "Заказы"](https://nekassir.gitbook.io/nekassir/3.-zakazy)
 
 
