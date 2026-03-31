@@ -67,6 +67,10 @@
 * [4. Лицензирование](licenzirovanie.md)
 * [ИНТЕГРАЦИЯ С IIKO](integraciya-s-iiko.md)
 
+## Не пришел заказ в iiko
+
+* [Общая информация -  пришел заказ в iiko](ne-prishel-zakaz-v-iiko/obshaya-informaciya-prishel-zakaz-v-iiko.md)
+
 ## Распространенные проблемы
 
 * [1. Номер заказа 9999(Подробнее о причинах в подпунктах)](rasprostranennye-problemy/1.-nomer-zakaza-9999-podrobnee-o-prichinakh-v-podpunktakh/README.md)
