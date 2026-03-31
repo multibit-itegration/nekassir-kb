@@ -69,7 +69,7 @@
 
 ## Не пришел заказ в iiko
 
-* [Общая информация -  пришел заказ в iiko](ne-prishel-zakaz-v-iiko/obshaya-informaciya-prishel-zakaz-v-iiko.md)
+* [Общая информация -  не пришел заказ в iiko](ne-prishel-zakaz-v-iiko/obshaya-informaciya-ne-prishel-zakaz-v-iiko.md)
 
 ## Распространенные проблемы
 
